@@ -1,5 +1,5 @@
 # Display
-ro.surface_flinger.has_HDR_display=false
+ro.surface_flinger.has_HDR_display=true
 
 # radio
 ro.radio.noril=true
